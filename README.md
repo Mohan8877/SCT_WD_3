@@ -33,9 +33,9 @@ Clone the repository:
    
 Choose a mode:
 
-Two-Player: Play with a friend
-VS Computer: Play against the computer
-Play the game, and click Reset to start over anytime.
+1.Two-Player: Play with a friend
+2.VS Computer: Play against the computer
+3.Play the game, and click Reset to start over anytime.
 
 📸 Preview
 1.tictactoe.png
@@ -47,10 +47,10 @@ The computer opponent uses basic game strategy to block, win, or take the best p
 
 🛠️ Future Enhancements
 
-Improve AI using minimax algorithm for unbeatable mode
-Add sound effects and animations
-Save scores and track player history
-Add difficulty levels (Easy, Medium, Hard)
+1.Improve AI using minimax algorithm for unbeatable mode
+2.Add sound effects and animations
+3.Save scores and track player history
+4.Add difficulty levels (Easy, Medium, Hard)
 
 👨‍💻 Developed By
 
