@@ -25,11 +25,11 @@ JavaScript – Implements game logic, win checking, two-player mode, and AI beha
 Clone the repository:
 
    git clone https://github.com/Mohan8877/SCT_WD_3.git
-   Navigate to the folder and open index.html in a browser:
+   Navigate to the folder and open SCT_WD_3.html in a browser:
 
     
    cd SCT_WD_3
-   open index.html  # or double-click the file
+   open SCT_WD_3.html  # or double-click the file
    
 Choose a mode:
 
